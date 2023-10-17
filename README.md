@@ -18,13 +18,6 @@ I'm a passionate DevOps engineer based in Pune, India, with a strong love for au
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20Me-blue?style=flat-square&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/mahesh-wasnik) 🤝
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-lightgrey?style=flat-square&logo=github)](https://github.com/mwasnik7) 📚
 
-## My Latest Projects
-
-Here are some of the projects I'm currently working on or have contributed to:
-
-- [Project 1 Name](https://github.com/yourusername/project1) 🚀: Brief description of the project.
-- [Project 2 Name](https://github.com/yourusername/project2) 🚧: Brief description of the project.
-- [Project 3 Name](https://github.com/yourusername/project3) 🛠️: Brief description of the project.
 
 Feel free to explore them and provide feedback!
 
